@@ -1,7 +1,7 @@
 CanvasHack - Free Bypass for Canvas
 Interception and Redirection
 
-CanvasHack is a free bypass I created, so you don’t need to pay anything. It automatically activates as soon as you install it. CanvasHack hides actions that might get you caught during a test. For example, if you switch tabs, CanvasHack makes everything look completely normal, so no one knows you left the test.
+CanvasHack is a free bypass that you needed to pay but not anymore. It automatically activates as soon as you install it. CanvasHack hides actions that might get you caught during a test. For example, if you switch tabs, CanvasHack makes everything look completely normal, so no one knows you left the test.
 
 With CanvasHack, you can navigate your test without worrying about being caught.
 Request Rewriting
